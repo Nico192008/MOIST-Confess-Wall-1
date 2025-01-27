@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "confess",
   version: "1.1.0",
-  permission: 3,
+  permission: 0,
   credits: "nics (modified by request)",
   prefix: false,
   premium: false,
