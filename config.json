@@ -9,7 +9,7 @@
   "autopost": true,
   "email": "nicoadajar14@gmail.com",
   "operators": [
-    "100091459940475"
+    "100082099374252"
   ],
   "autorestart": {
     "status": false,
@@ -35,7 +35,7 @@
     "autoMarkDelivery": false,
     "autoMarkRead": false,
     "autoReconnect": true,
-    "online": true,
+    "online": false,
     "emitReady": false,
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:132.0) Gecko/20100101 Firefox/132.0"
   },
