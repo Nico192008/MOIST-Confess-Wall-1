@@ -1,13 +1,13 @@
 {
-  "author": "ryuko",
+  "author": "Nics",
   "language": "english",
-  "allowinbox": false,
+  "allowinbox": true,
   "adminonly": false,
   "autocreatedb": true,
   "approval": false,
   "premium": false,
   "autopost": true,
-  "email": "sanjivfresh@gmail.com",
+  "email": "nicoadajar14@gmail.com",
   "operators": [
     "100091459940475"
   ],
@@ -35,7 +35,7 @@
     "autoMarkDelivery": false,
     "autoMarkRead": false,
     "autoReconnect": true,
-    "online": false,
+    "online": true,
     "emitReady": false,
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:132.0) Gecko/20100101 Firefox/132.0"
   },
